@@ -1,0 +1,33 @@
+body{
+  background-color: lightgray;
+  color: black;
+}
+
+img{
+    height: 11%;
+    width: inherit;
+    float: ;
+}
+
+p{
+    font-family: "OCR A Std";
+    font-size: small; 
+    
+}
+
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: red;
+}
+
+
+
+
+
+
+
+
