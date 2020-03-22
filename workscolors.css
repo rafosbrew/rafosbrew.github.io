@@ -1,13 +1,13 @@
 body{
   background-color: lightgray;
   color: black;
-  font-family: ocr-a-std;
+    font-family: 'Roboto Mono', monospace;
   font-style: normal;
   font-weight: 400;
 }
 
+
+
 img{
    max-width: 50%;  
 }
- 
-
