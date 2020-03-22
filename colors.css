@@ -1,7 +1,11 @@
 body{
   background-color: lightgray;
   color: black;
-  font-family: "OCR A Std";
+  font-family: ocr-a-std;
+  font-style: normal;
+  font-weight: 400;
+}
+
 }
 
 img{
@@ -11,8 +15,11 @@ img{
 }
 
 p{
-    font-family: "OCR A Std";
-    font-size: small; 
+    font-family: ocr-a-std;
+    font-style: normal;
+    font-weight: 400;
+}
+ 
     
 }
 
