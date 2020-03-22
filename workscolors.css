@@ -1,12 +1,10 @@
 body{
   background-color: lightgray;
   color: black;
+  font-family: ocr-a-std;
+  font-style: normal;
+  font-weight: 400;
 }
-
-p{
-    font-family: "OCR A Std";
-    font-size: small; 
-  }
 
 img{
    max-width: 50%;  
